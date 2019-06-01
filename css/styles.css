@@ -26,3 +26,11 @@
 .education .degree {
   font-style: italic;
 }
+
+.job td {
+  padding-left: 10px;
+}
+
+li {
+  margin-left: -10px;
+}
