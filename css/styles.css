@@ -10,13 +10,12 @@
 /* Styles for projects */
 .project {
   border-style: solid;
-  border-width: 2px;
-  float: left;
+  border-width: 1px;
   padding: 10px;
 }
 
-/* Styles for background section */
-.background {
+/* Styles for background sections */
+.education, .experience, .about-me, .why-epicodus, .interests {
   border-style: solid;
   border-width: 2px;
   float: left;
@@ -24,15 +23,6 @@
   width: 50%
 }
 
-.background .degree {
+.education .degree {
   font-style: italic;
-}
-
-/* Styles for current interests */
-.interests {
-  border-style: solid;
-  border-width: 2px;
-  float: left;
-  padding: 10px;
-  width: 50%
 }
