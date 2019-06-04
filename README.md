@@ -15,12 +15,12 @@ _This is a portfolio webpage created using HTML and CSS, which will later act as
 * _An "About Me" section_
 * _My background (education, job experience, and why I decided to attend Epicodus)_
 * _My current interests, hobbies, and skills_
-* _A gh-pages branch so that the site may be viewed on GitHub pages at [bbcauchon.github.io/portfolio](https://bbcauchon.github.io/portfolio)_
+* _A gh-pages branch so that the site may be viewed on GitHub pages at [benjbc.github.io/portfolio](https://benjbc.github.io/portfolio)_
 
 ## Setup/Installation Requirements
 
 * _The webpage does not have any setup or installation requirements_
-* _It can be seen on GitHub pages at: [bbcauchon.github.io/portfolio](https://bbcauchon.github.io/portfolio)_
+* _It can be seen on GitHub pages at: [benjbc.github.io/portfolio](https://benjbc.github.io/portfolio)_
 
 ## Known Bugs
 
