@@ -15,7 +15,7 @@
 }
 
 /* Styles for background sections */
-.education, .experience, .about-me, .why-epicodus, .interests {
+.education, .experience, .about-me, .interests {
   border-style: solid;
   border-width: 2px;
   float: left;
