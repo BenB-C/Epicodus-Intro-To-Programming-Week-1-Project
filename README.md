@@ -15,7 +15,7 @@ This is a portfolio webpage created using HTML and CSS, which will later act as 
 * An "About Me" section
 * My background (education, job experience, and why I decided to attend Epicodus)
 * My current interests, hobbies, and skills
-* A gh-pages branch so that the site may be viewed on GitHub pages at https://github.com/BenB-C/Epicodus-Intro-To-Programming-Week-1-Project.git
+* A gh-pages branch so that the site may be viewed on GitHub pages at https://benb-c.github.io/Epicodus-Intro-To-Programming-Week-1-Project/
 
 ## Setup/Installation Requirements
 
